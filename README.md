@@ -68,7 +68,7 @@ WISH LIST
 - time to read automated (as in the plugin that exists)
 - related posts
 - most read posts
-- automatic registration of item types for sitemap plugin (with individual priority field / for posts details, post list, tag lists and category lists)
+- automatic multilanguage registration of item types for sitemap plugin (with individual priority field / for posts details, post list, tag lists and category lists)
 - imageresizer cropping for keyvisual not only centered, but adjustable trough user, depending on hwo the keyvisual picture is)
 - real multilanguage search plugin...
 - ability for editors to add pictures that fulfill requirements of Lighthouse (with and height attributes, resolution 2x option, webp transformation is browser can do it)
