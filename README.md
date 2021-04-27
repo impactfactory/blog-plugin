@@ -42,7 +42,7 @@ FEATURES SO FAR
 - language switcher
 - sluggable (all multilanguage and alternative links work)
 - field for adding keywords for work around of search plugin (which is not really multilanguage)
-- multilanguage path control, f.e. post at /lang/recipes, categories at /lang/topic/slug, post at /lang/recipes/slug whatever... (doesn't have to look like blog :)
+- multilanguage path control, f.e. post at /lang/recipes, categories at /en/topic/slug, /de/thema/slug , post at /lang/recipes/slug / etc.... (doesn't have to look like blog :)
 
 <br>
 
