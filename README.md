@@ -27,6 +27,7 @@ FEATURES SO FAR
 - tag cloud snippet
 - post types for templating different views and cards (f.e. video posts, gallery posts, texts posts)
 
+
 - responsive keyvisual (keyvisual not in the background) with webp and resolution check
 - fast, Lighthouse tests at 90s
 - css for user added pictures in articles is ready and works
