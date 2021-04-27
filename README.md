@@ -11,8 +11,8 @@ DEPENDENCIES
 - impactfactory.team (unpublished / just for displaying an author (could be replaced with user plugin or backend user relation (?)).
 - rainlab.translate
 - offline.sitesearch 
-- abwebdevelopers.oc-imageresize-plugin
-- inetis.list-switch
+- abwebdevelopers.oc-imageresize-plugin (for responsive, croppable, retina, webp keyvisuals)
+- inetis.list-switch (for publishing posts directly in backend list view)
 
 
 
