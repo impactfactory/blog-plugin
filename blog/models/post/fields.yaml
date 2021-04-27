@@ -1,0 +1,125 @@
+fields:
+    is_published:
+        label: 'impactfactory.blog::lang.post.is_published'
+        span: left
+        type: switch
+    edit:
+        label: 'impactfactory.blog::lang.post.editstate'
+        nameFrom: name
+        descriptionFrom: color
+        emptyOption: '- -'
+        select: name
+        span: right
+        type: relation
+tabs:
+    fields:
+        title:
+            label: 'impactfactory.blog::lang.post.title'
+            span: full
+            type: text
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        subtitle:
+            label: 'impactfactory.blog::lang.post.subtitle'
+            span: full
+            type: text
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        excerpt:
+            label: 'impactfactory.blog::lang.post.excerpt'
+            size: tiny
+            span: full
+            type: richeditor
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        content:
+            label: 'impactfactory.blog::lang.post.content'
+            size: giant
+            span: full
+            type: richeditor
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        slug:
+            label: 'impactfactory.blog::lang.post.slug'
+            span: left
+            type: text
+            preset: title
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        timetoread:
+            label: 'impactfactory.blog::lang.post.timetoread'
+            span: right
+            type: number
+            commentAbove: 'impactfactory.blog::lang.post.timetoread_comment'
+            tab: 'impactfactory.blog::lang.post.tab_content'
+        img:
+            label: 'impactfactory.blog::lang.post.keyvisual'
+            mode: image
+            imageWidth: '300'
+            imageHeight: '300'
+            span: left
+            type: mediafinder
+            commentAbove: 'impactfactory.blog::lang.post.keyvisual_comment'
+            tab: 'impactfactory.blog::lang.post.tab_image'
+      # crop_area:
+            # label: 'impactfactory.blog::lang.post.crop_area_label'
+            # options:
+                # center: 'impactfactory.blog::lang.post.center'
+                # left: 'impactfactory.blog::lang.post.left'
+                # right: 'impactfactory.blog::lang.post.right'
+                # top: 'impactfactory.blog::lang.post.top'
+                # top-left: 'impactfactory.blog::lang.post.top-left'
+                # top-right: 'impactfactory.blog::lang.post.top-right'
+                # bottom: 'impactfactory.blog::lang.post.bottom'
+                # bottom-left: 'impactfactory.blog::lang.post.bottom-left'
+                # bottom-right: 'impactfactory.blog::lang.post.bottom-right'
+            # showSearch: true
+            # span: right
+            # default: 'impactfactory.blog::lang.post:center'
+            # type: dropdown
+            # commentAbove: 'impactfactory.blog::lang.post.crop_area_comment'
+            # tab: 'impactfactory.blog::lang.post.tab_image'
+        meta_img:
+            label: 'impactfactory.blog::lang.post.meta_image'
+            mode: image
+            imageWidth: '300'
+            imageHeight: '300'
+            span: full
+            type: mediafinder
+            commentAbove: 'impactfactory.blog::lang.post.meta_img_comment'
+            tab: 'impactfactory.blog::lang.post.tab_image'
+        categories:
+            label: 'impactfactory.blog::lang.post.categories'
+            mode: relation
+            separator: space
+            customTags: 0
+            nameFrom: name
+            useKey: false
+            span: left
+            type: taglist
+            tab: 'impactfactory.blog::lang.post.tab_taxonomy'
+        tags:
+            label: 'impactfactory.blog::lang.post.tags'
+            mode: relation
+            separator: space
+            customTags: 0
+            useKey: false
+            span: right
+            type: taglist
+            tab: 'impactfactory.blog::lang.post.tab_taxonomy'
+        type:
+            label: 'impactfactory.blog::lang.post.type'
+            nameFrom: name
+            descriptionFrom: description
+            span: left
+            type: relation
+            tab: 'impactfactory.blog::lang.post.tab_taxonomy'
+        searchtags:
+            label: 'impactfactory.blog::lang.post.searchtaglabel'
+            size: tiny
+            span: full
+            type: textarea
+            commentAbove: 'impactfactory.blog::lang.post.searchtagcomment'
+            tab: 'impactfactory.blog::lang.post.tab_taxonomy'
+        author:
+            label: 'impactfactory.blog::lang.post.author'
+            type: recordfinder
+            list: $/impactfactory/team/models/person/columns.yaml
+            nameFrom: first_name
+            span: left
+            tab: 'impactfactory.blog::lang.post.tab_author'
