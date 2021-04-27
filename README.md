@@ -26,7 +26,8 @@ FEATURES SO FAR
 ( all of them with Masonry and Bootstrap cards, with title, text, keyvisual, metas and seo fields)
 - tag cloud snippet
 - post types for templating different views and cards (f.e. video posts, gallery posts, texts posts)
-
+<br>
+<br>
 
 - responsive keyvisual (keyvisual not in the background) with webp and resolution check
 - fast, Lighthouse tests at 90s
