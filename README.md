@@ -6,9 +6,9 @@ As a generalist I was overwhelmed to always understand the code of the Rainlab P
 - - - - - - -
 DEPENDENCIES
 
-- Bootstrap 5
+- Bootstrap 5 (mainly for cards, image overlay keyvisual, badges, typography and grid)
 - jQuery for languageswitcher
-- impactfactory.team Plugin (just for displaying an author - could be rpleaced with user plugin.
+- impactfactory.team (unpublished / just for displaying an author (could be replaced with user plugin or backend user relation (?)).
 - rainlab.translate
 - offline.sitesearch 
 - abwebdevelopers.oc-imageresize-plugin
