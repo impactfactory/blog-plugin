@@ -36,7 +36,7 @@ FEATURES SO FAR
 
 <br>
 
-- multilanguage in front and backend
+- multilanguage in front and backend (de and en already translated)
 - multilanguage breadcrumb and blogposting rich snippets json code
 - multilanguage metas
 - language switcher
