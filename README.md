@@ -3,8 +3,9 @@ A simple unfinished blog plugin as alternative to the Rainlab Blog Plugin.
 
 As a generalist I was overwhelmed do always understand the code of the Rainlab Plugin. At some point I decided that Im faster with just setting up my own models, so I could add fields and templating easier.
 
-Dependencies
 - - - - - - -
+DEPENDENCIES
+
 - Bootstrap 5
 - jQuery for languageswitcher
 - impactfactory.team Plugin (just for displaying an author - could be rpleaced with user plugin.
@@ -14,8 +15,10 @@ Dependencies
 - inetis.list-switch
 
 
-Features at the Moment
+
 - - - - - - -
+FEATURES SO FAR
+
 - post list view ()
 - detail view
 - posts in categories list view
@@ -47,8 +50,10 @@ Features at the Moment
 
 - old jQuery of OC replaced by newer version to handel the Lighthouse security issue
 
-Wish list
+
 - - - - - - -
+WISH LIST
+
 - time to read automated (as in the plugin that exists)
 - related posts
 - most read posts
@@ -57,8 +62,10 @@ Wish list
 - real multilanguage search plugin...
 - ability for editors to add pictures that fulfill requirements of Lighthouse (with and height attributes, resolution 2x option, webp transformation is browser can do it)
 
-Thanx to
+
 - - - - - - -
+THANX TO
+
 - munxar for teaching me!
 - Rainlab and October Founders and Maintainers
 - Laravel, Twig, css, jQuery communities
