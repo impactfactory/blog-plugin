@@ -38,7 +38,7 @@ FEATURES SO FAR
 
 - multilanguage in front and backend (de and en already translated)
 - multilanguage breadcrumb and blogposting rich snippets json code
-- multilanguage metas
+- multilanguage metas, separate social media preview image
 - language switcher
 - sluggable (all multilanguage and alternative links work)
 - field for adding keywords for work around of search plugin (which is not really multilanguage)
