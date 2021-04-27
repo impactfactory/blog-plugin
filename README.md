@@ -26,13 +26,15 @@ FEATURES SO FAR
 ( all of them with Masonry and Bootstrap cards, with title, text, keyvisual, metas and seo fields)
 - tag cloud snippet
 - post types for templating different views and cards (f.e. video posts, gallery posts, texts posts)
-<br>
+
 <br>
 
 - responsive keyvisual (keyvisual not in the background) with webp and resolution check
 - fast, Lighthouse tests at 90s
 - css for user added pictures in articles is ready and works
 - tags have different css according how they are used
+
+<br>
 
 - multilanguage in front and backend
 - multilanguage breadcrumb and blogposting rich snippets json code
@@ -41,7 +43,11 @@ FEATURES SO FAR
 - sluggable (all multilanguage and alternative links work)
 - field for adding keywords for work around of search plugin (which is not really multilanguage)
 
+<br>
+
 - searchable (every model, multilanguage work around fields)
+
+<br>
 
 - rights management for every model
 - flexible edit status for editors overview when to read proof, translate and publish etc
@@ -50,8 +56,11 @@ FEATURES SO FAR
 - publish directly in list view
 - time to read field
 
+<br>
+
 - old jQuery of OC replaced by newer version to handel the Lighthouse security issue
 
+<br>
 
 - - - - - - -
 WISH LIST
@@ -64,6 +73,7 @@ WISH LIST
 - real multilanguage search plugin...
 - ability for editors to add pictures that fulfill requirements of Lighthouse (with and height attributes, resolution 2x option, webp transformation is browser can do it)
 
+<br>
 
 - - - - - - -
 THANX TO
