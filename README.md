@@ -73,6 +73,7 @@ WISH LIST
 - imageresizer cropping for keyvisual not only centered, but adjustable trough user, depending on hwo the keyvisual picture is)
 - real multilanguage search plugin...
 - ability for editors to add pictures that fulfill requirements of Lighthouse (with and height attributes, resolution 2x option, webp transformation is browser can do it)
+- settings where paths can be defined (multilingual) and their labels for breadcrum rich snippets.
 
 <br>
 
