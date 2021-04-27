@@ -1,7 +1,7 @@
 # blog-plugin
 A simple unfinished blog plugin as alternative to the Rainlab Blog Plugin.
 
-As a generalist I was overwhelmed do always understand the code of the Rainlab Plugin. At some point I decided that Im faster with just setting up my own models, so I could add fields and templating easier.
+As a generalist I was overwhelmed to always understand the code of the Rainlab Plugin and lost a lot of time. At some point I decided that I'm probably faster with just setting up my own 3 models :), so I could add fields and templating easier.
 
 - - - - - - -
 DEPENDENCIES
